@@ -1,0 +1,403 @@
+body{
+    position: relative;
+width: 1200px;
+height: 3660px;
+
+background: #FFFFFF;
+}
+.icone{
+    position: absolute;
+width: 77px;
+height: 70px;
+left: 22px;
+top: 12px;
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.home{
+    position: absolute;
+    width: 41px;
+    height: 21px;
+    left: 850px;
+    top: 44px;
+    
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height, or 150% */
+    
+    text-align: right;
+    letter-spacing: 2.3px;
+    text-transform: uppercase;
+    
+    color: #7A7A7A;
+}
+.sobre{
+    position: absolute;
+width: 49px;
+height: 21px;
+left: 921px;
+top: 43px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+
+text-align: right;
+letter-spacing: 2.3px;
+text-transform: uppercase;
+
+color: #7A7A7A;
+    
+
+}
+.port{
+    position: absolute;
+width: 82px;
+height: 21px;
+left: 994px;
+top: 42px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+
+text-align: right;
+letter-spacing: 2.3px;
+text-transform: uppercase;
+
+color: #7A7A7A;
+
+}
+.contato{
+    position: absolute;
+width: 66px;
+height: 21px;
+left: 1099px;
+top: 44px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+
+text-align: right;
+letter-spacing: 2.3px;
+text-transform: uppercase;
+
+color: #7A7A7A
+
+}
+#fundo{
+    position: absolute;
+    width: 100%;
+    height: 931px;
+    left: 0px;
+    top: 94px;
+    
+    background: url(image.png);
+    border-radius: 0px;
+}
+.mulher{
+    position: absolute;
+width: 316px;
+height: 320px;
+left: 74px;
+top: 1187px;
+
+background: url(image.png);
+border-radius: 52px 60px 39px;
+
+}
+.nome{
+    position: absolute;
+width: 203px;
+height: 40px;
+left: 135px;
+top: 1500px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 53px;
+/* or 294% */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #7A7A7A;
+}
+.texto{
+    position: absolute;
+    width: 494px;
+    height: 111px;
+    left: 590px;
+    top: 1295px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 37px;
+    /* or 204% */
+    
+    text-align: center;
+    
+    color: #909090;
+}
+.porti{
+    position: absolute;
+width: 202px;
+height: 53px;
+left: 499px;
+top: 1560px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 53px;
+/* identical to box height, or 147% */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #25232D;
+}
+.img1{
+    position: absolute;
+    width: 615px;
+    height: 308px;
+    left: 13px;
+    top: 1734px;
+    
+    background: url(image.png);
+    border-radius: 0px;
+}
+.img2{
+    position: absolute;
+    width: 546px;
+    height: 308px;
+    left: 632px;
+    top: 1734px;
+    
+    background: url(image.png);
+    border-radius: 0px;
+}
+.img3{
+    position: absolute;
+    width: 615px;
+    height: 291px;
+    left: 11px;
+    top: 2042px;
+    
+    background: url(image.png);
+    border-radius: 0px;
+}
+.img4{
+    position: absolute;
+    width: 546px;
+    height: 290px;
+    left: 632px;
+    top: 2037px;
+    
+    background: url(image.png);
+    border-radius: 0px;  
+}
+.img5{
+    position: absolute;
+width: 615px;
+height: 284px;
+left: 15px;
+top: 2315px;
+
+background: url(image.png);
+border-radius: 0px;
+}
+.img6{
+    position: absolute;
+width: 546px;
+height: 285px;
+left: 626px;
+top: 2315px;
+
+background: url(image.png);
+border-radius: 0px;
+}
+.img7{
+    position: absolute;
+width: 619px;
+height: 326px;
+left: 13px;
+top: 2599px;
+
+background: url(image.png);
+border-radius: 0px;
+}
+.img8{
+    position: absolute;
+width: 542px;
+height: 326px;
+left: 630px;
+top: 2599px;
+
+background: url(image.png);
+border-radius: 0px;
+}
+.textca{
+    position: absolute;
+width: 266px;
+height: 56px;
+left: 460px;
+top: 2968px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 49px;
+/* or 135% */
+
+text-align: center;
+letter-spacing: 3.6px;
+text-transform: uppercase;
+
+color: #000000;
+}
+.linha{
+    position: absolute;
+width: 200px;
+height: 2px;
+left: 493px;
+top: 3022px;
+
+background: #7A7A7A;
+}
+.textcadastro{
+    position: absolute;
+width: 829px;
+height: 124px;
+left: 200px;
+top: 3083px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 31px;
+/* or 220% */
+
+text-align: center;
+letter-spacing: 0.7px;
+
+color: #7A7A7A;
+
+}
+.nomeca{
+    position: absolute;
+width: 37px;
+height: 23px;
+left: 200px;
+top: 3286px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height, or 172% */
+
+
+color: #3B3D42;
+}
+
+.name{
+    position: absolute;
+width: 830px;
+height: 40px;
+left: 200px;
+top: 3309px;
+
+background: #FFFFFF;
+border: 1px solid #818A91;
+box-sizing: border-box;
+border-radius: 4px;
+}
+#name{
+    width: 830px;
+height: 40px;
+}
+.email{
+    position: absolute;
+width: 37px;
+height: 23px;
+left: 200px;
+top: 3358px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 22px;
+/* identical to box height, or 172% */
+
+
+color: #3B3D42;
+}
+.name2{
+    position: absolute;
+width: 830px;
+height: 40px;
+left: 200px;
+top: 3381px;
+
+background: #FFFFFF;
+border: 1px solid #818A91;
+box-sizing: border-box;
+border-radius: 4px
+}
+.enviar{
+    position: absolute;
+width: 140px;
+height: 47px;
+left: 540px;
+top: 3462px;
+
+}
+#fim{
+    position: absolute;
+width: 1349px;
+height: 72px;
+left: 0px;
+top: 3594px;
+
+background: #000000;
+}
+.text{
+    position: absolute;
+width: 1277px;
+height: 31px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 31px;
+/* identical to box height, or 220% */
+
+text-align: center;
+letter-spacing: 0.7px;
+
+color: #909090;
+}
